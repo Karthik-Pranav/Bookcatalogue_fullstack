@@ -1,6 +1,6 @@
 'use client';
 
-import LibraryPage from './LibraryClient';
+import LibraryPage from './LibraryClient.jsx';
 
 
 export default function Page() {
